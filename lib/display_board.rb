@@ -10,4 +10,4 @@ def display_board(board)
 
 end
 
-display_board(["O", "O", "O", "O", "O", "O", "O", "O", "O"])
+
